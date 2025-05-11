@@ -1,0 +1,7 @@
+.form-control, .form-select, .form-range {
+    width: 50%;
+}
+.error {
+    color: red;
+    font-size: 0.8rem;
+}
